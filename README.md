@@ -1,6 +1,9 @@
 ### Go H3
 Go utilities for H3 library function support.
 
+### Support
+- H3 Radius Lookup
+
 ### Usage
 
 H3 Index
