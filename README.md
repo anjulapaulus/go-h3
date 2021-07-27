@@ -1,4 +1,7 @@
+[![Build Status](https://travis-ci.org/anjulapaulus/rflush.svg?branch=master)](https://travis-ci.com/anjulapaulus/rflush)
+[![codecov](https://codecov.io/gh/anjulapaulus/rflush/branch/master/graph/badge.svg)](https://codecov.io/gh/anjulapaulus/rflush)
 ### Go H3
+
 Go utilities for H3 library function support.
 
 ### Support
