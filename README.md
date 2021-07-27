@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/anjulapaulus/go-h3.svg?branch=main)](https://travis-ci.com/anjulapaulus/go-h3)
 [![codecov](https://codecov.io/gh/anjulapaulus/go-h3/branch/main/graph/badge.svg?token=mgsBQit1P8)](https://codecov.io/gh/anjulapaulus/go-h3)
 ### Go H3
 
